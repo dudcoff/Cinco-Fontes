@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Cinzel:wght@500&family=DotGothic16&family=EB+Garamond&family=Major+Mono+Display&family=Parisienne&family=Raleway&family=Rubik+Marker+Hatch&family=Silkscreen&family=Syne+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+
+body{
+    background: linear-gradient(90deg, rgba(116,222,222,1) 0%, rgba(146,89,240,1) 56%, rgba(210,106,240,1) 100%); 
+}
+
+h1{
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+p.serif{
+    font-family: 'EB Garamond', serif;
+}
+p.sans{
+    font-family: 'Raleway', sans-serif;
+}
+p.display{
+    font-family: 'Silkscreen', cursive;
+}
+p.hand{
+    font-family: 'Parisienne', cursive;
+}
+p.mono{
+    font-family: 'Syne Mono', monospace;
+}
+
+#se{
+    font-family: 'Cinzel', serif;
+}
+#sa{
+    font-family: 'DotGothic16', sans-serif;
+}
+#di{
+    font-family: 'Rubik Marker Hatch', cursive;
+}
+#had{
+    font-family: 'Bad Script', cursive;
+}
+#mon{
+    font-family: 'Major Mono Display', monospace;
+}
