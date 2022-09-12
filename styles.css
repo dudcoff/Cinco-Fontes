@@ -7,36 +7,50 @@ body{
 
 h1{
     font-family: 'Nothing You Could Do', cursive;
+    font-size: 5em;
+    text-align: center;
 }
 
 p.serif{
     font-family: 'EB Garamond', serif;
+    font-size: 1.75em;
 }
 p.sans{
     font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
 }
 p.display{
     font-family: 'Silkscreen', cursive;
 }
 p.hand{
     font-family: 'Parisienne', cursive;
+    font-size: 1.75em;
 }
 p.mono{
     font-family: 'Syne Mono', monospace;
+    font-size: 1.5em;
 }
 
 #se{
     font-family: 'Cinzel', serif;
+    font-size: 1.80em;
+    text-align: center;
 }
 #sa{
     font-family: 'DotGothic16', sans-serif;
+    text-align: center;
 }
 #di{
     font-family: 'Rubik Marker Hatch', cursive;
+    font-size: 1.80em;
+    text-align: center;
 }
 #had{
     font-family: 'Bad Script', cursive;
+    font-size: 1.80em;
+    text-align: center;
 }
 #mon{
     font-family: 'Major Mono Display', monospace;
+    text-align: center;
 }
